@@ -1,0 +1,2 @@
+Model,Acc_kNN,LogRegAcc,CentDist,Sil,Acc_NNK,Acc_NNK_alt,Acc_NNK_ens,Acc_WANN,Acc_ANN
+DINOv2,0.96,0.947,0.88934225,0.09028566,0.919,0.761,0.922,0.964,0.946

@@ -1,0 +1,2 @@
+Model,kNN Accuracy,Centroid Distance,Silhouette Score,Reliability Acc,Reliability AUC
+CLIP-ViT,0.884,4.869935,0.08405864,0.885,0.49594694178334564
