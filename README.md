@@ -143,5 +143,5 @@ python visualize_nnk_features.py \
 
 
 ## 📚 References
-
+Bozkurt, Ecem, and Antonio Ortega. "Robust Classification under Noisy Labels: A Geometry-Aware Reliability Framework for Foundation Models." arXiv preprint arXiv:2508.00202 (2025).
 
