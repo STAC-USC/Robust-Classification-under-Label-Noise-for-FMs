@@ -24,7 +24,7 @@ This repository provides a **unified**, **extensible** framework for evaluating 
 * **Reliability Metrics**:
 
   * k‑NN confidence
-  * NNK graph mass ratio (D/Dc)
+  * NNK graph diameter ratio (D/Dc)
   * Per‑class NNK geometric reliability
   * Ensemble NNK reliability (subsample aggregation)
   * Ensemble‑classification NNK (max‑support voting)
