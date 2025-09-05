@@ -1,5 +1,5 @@
 # Robust Classification under Noisy Labels: A Geometry-Aware Reliability Framework for Foundation Models
-(./fm_highlevel3.png)
+![plot](./fm_highlevel3.png)
 ## 📖 Table of Contents
 
 * [About](#about)
