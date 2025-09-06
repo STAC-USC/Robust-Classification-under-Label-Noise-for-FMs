@@ -10,7 +10,6 @@
 * [Outputs](#outputs)
 * [Visualizations](#visualizations)
 * [Contributing](#contributing)
-* [License](#license)
 * [References](#references)
 
 ## 📄 About
