@@ -41,8 +41,8 @@ This repository provides a **unified**, **extensible** framework for evaluating 
 1. **Clone this repo**
 
    ```bash
-   git clone https://github.com/yourusername/foundation-reliability.git
-   cd foundation-reliability
+   git clone <repository_url>
+
    ```
 2. **Create & activate a virtualenv**
 
