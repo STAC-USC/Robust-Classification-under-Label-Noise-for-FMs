@@ -33,8 +33,8 @@ This repository provides a **unified**, **extensible** framework for evaluating 
 
   1. Compute per‑sample reliability score
   2. Classification weighted by reliability
-* **Noise Robustness**: inject symmetric label noise up to 40%
-* **Visualization**: easy histograms, PCA, and SVM analysis
+* **Noise Robustness**: inject symmetric and asymmetric noise
+* **Visualization**:  accuracy plots
 
 ## 🛠️ Installation
 
